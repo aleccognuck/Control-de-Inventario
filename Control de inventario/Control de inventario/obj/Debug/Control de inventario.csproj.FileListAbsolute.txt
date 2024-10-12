@@ -1,0 +1,7 @@
+C:\Users\Alejandro\source\repos\Control de inventario\Control de inventario\bin\Debug\Control de inventario.exe.config
+C:\Users\Alejandro\source\repos\Control de inventario\Control de inventario\bin\Debug\Control de inventario.exe
+C:\Users\Alejandro\source\repos\Control de inventario\Control de inventario\bin\Debug\Control de inventario.pdb
+C:\Users\Alejandro\source\repos\Control de inventario\Control de inventario\obj\Debug\Control de inventario.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\Control de inventario\Control de inventario\obj\Debug\Control de inventario.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Control de inventario\Control de inventario\obj\Debug\Control de inventario.exe
+C:\Users\Alejandro\source\repos\Control de inventario\Control de inventario\obj\Debug\Control de inventario.pdb

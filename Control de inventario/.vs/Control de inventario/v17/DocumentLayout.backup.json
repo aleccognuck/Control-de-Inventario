@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|c:\\users\\alejandro\\source\\repos\\control de inventario\\control de inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|solutionrelative:control de inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\control de inventario\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|solutionrelative:control de inventario\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\control de inventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|solutionrelative:control de inventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\control de inventario\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB765019-6041-4F5B-B68D-B05F8490BD3F}|Control de inventario\\Control de inventario.csproj|solutionrelative:control de inventario\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\Menu.cs",
+              "RelativeDocumentMoniker": "Control de inventario\\Menu.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\Menu.cs",
+              "RelativeToolTip": "Control de inventario\\Menu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:51:16.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arreglos.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\Arreglos.cs",
+              "RelativeDocumentMoniker": "Control de inventario\\Arreglos.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\Arreglos.cs",
+              "RelativeToolTip": "Control de inventario\\Arreglos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:47:58.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\Articulos.cs",
+              "RelativeDocumentMoniker": "Control de inventario\\Articulos.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\Articulos.cs",
+              "RelativeToolTip": "Control de inventario\\Articulos.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:51:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\program.cs",
+              "RelativeDocumentMoniker": "Control de inventario\\program.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\source\\repos\\Control de inventario\\Control de inventario\\program.cs",
+              "RelativeToolTip": "Control de inventario\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:50:38.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
